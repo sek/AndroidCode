@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Bitmap Combiner: This sample demonstrates how to programmatically combine two Drawables. \nPress button to toggle image</string>
+    <string name="app_name">Bitmap Combiner</string>
+    <string name="button">toggle image</string>
+</resources>
