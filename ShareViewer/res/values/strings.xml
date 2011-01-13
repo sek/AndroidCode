@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string
+        name="hello">This program allows you to view content shared via the "Share" option in other
+        applications. Go to an app with the share button, click it and then choose the "ShareViewer"
+        application to view what is being shared. Here\'s the Intent that started this app:</string>
+    <string
+        name="alternate">see below for intent details</string>
+    <string
+        name="app_name">Share Viewer</string>
+</resources>
