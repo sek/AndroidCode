@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Press a key in order to see the event</string>
+    <string name="app_name">KeyReporter</string>
+</resources>
